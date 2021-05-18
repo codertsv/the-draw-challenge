@@ -1,0 +1,8 @@
+here
+tidyverse
+gganimate
+animation
+emojifont
+ggimage
+extrafont
+extrafontdb
