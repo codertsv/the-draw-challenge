@@ -1,7 +1,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/CoderTsv?style=social)](https://twitter.com/codertsv?lang=en)
 
 <img src="src/codertsv.jpeg" width="150" height="150"> codertsv: The draw challenge
-
 ==========
 
 
